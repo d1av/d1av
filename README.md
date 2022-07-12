@@ -1,6 +1,6 @@
 # Oi, sou o Davi
   
-<h3><p>####💻<strong>Desenvolvedor Fullstack em formação.</strong></p></h3>
+<h3><p>💻<strong>Desenvolvedor Fullstack em formação.</strong></p></h3>
 <p><h5>Dentista especialista em Ortodontia pela USP</h5></p>
 
 ## 📚 Conhecimentos em tecnologia
