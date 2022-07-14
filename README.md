@@ -8,13 +8,6 @@
 * Armazenar códigos já produzidos para consulta/estudo futuro;
 * Usar como portifólio;
 
-## Especialidades:
-<p>Sempre buscando aprender e melhorar;</p>
-<p>Proatividade;</p>
-<p>Dinâmico e com grande entusiasmo;</p>
-<p>Resiliência, e de fácil adaptabilidade.</p>
-<p><h5>Dentista especialista em Ortodontia pela USP</h5></p>
-
 ## 📚 Conhecimentos em tecnologia
 <div>
   <img align="center" alt="JavaScript" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
@@ -41,3 +34,10 @@
   <img height="130em" src="https://github-readme-stats.vercel.app/api?username=davi38&show_icons=true&theme=aura&include_all_commits=true&count_private=true"/>
   <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davi38&layout=compact&langs_count=7&theme=aura"/>
 </div>
+  
+## Especialidades:
+<p>Sempre buscando aprender e melhorar;</p>
+<p>Proatividade;</p>
+<p>Dinâmico e com grande entusiasmo;</p>
+<p>Resiliência, e de fácil adaptabilidade.</p>
+<p><h5>Dentista especialista em Ortodontia pela USP</h5></p>
