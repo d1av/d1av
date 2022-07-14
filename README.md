@@ -8,11 +8,11 @@
 * Armazenar códigos já produzidos para consulta/estudo futuro;
 * Usar como portifólio;
 
-###Especialidades:
-Sempre buscando aprender e melhorar;
-Proatividade;
-Dinâmico e com grande entusiasmo;
-Resiliência, e de fácil adaptabilidade.
+## Especialidades:
+<p>Sempre buscando aprender e melhorar;</p>
+<p>Proatividade;</p>
+<p>Dinâmico e com grande entusiasmo;</p>
+<p>Resiliência, e de fácil adaptabilidade.</p>
 <p><h5>Dentista especialista em Ortodontia pela USP</h5></p>
 
 ## 📚 Conhecimentos em tecnologia
