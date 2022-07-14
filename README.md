@@ -1,13 +1,19 @@
 # Oi, sou o Davi
   
 <h3><p>💻<strong>Desenvolvedor Fullstack em formação.</strong></p></h3>
-<p><h5>Dentista especialista em Ortodontia pela USP</h5></p>
+
 
  ### Objetivos desse espaço: 
 
 * Armazenar códigos já produzidos para consulta/estudo futuro;
 * Usar como portifólio;
-* Conhecer os projetos de outros usuários para aumentar minhas referências; 
+
+###Especialidades:
+Sempre buscando aprender e melhorar;
+Proatividade;
+Dinâmico e com grande entusiasmo;
+Resiliência, e de fácil adaptabilidade.
+<p><h5>Dentista especialista em Ortodontia pela USP</h5></p>
 
 ## 📚 Conhecimentos em tecnologia
 <div>
