@@ -1,6 +1,6 @@
 # Oi, sou o Davi
   
-<h3><p>💻<strong>Desenvolvedor Fullstack em formação.</strong></p></h3>
+<h3><p>💻<strong>Desenvolvedor Fullstack Jr.</strong></p></h3>
 
 
  ### Objetivos desse espaço: 
