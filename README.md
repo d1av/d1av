@@ -40,4 +40,3 @@
 <p>Proatividade;</p>
 <p>Dinâmico e com grande entusiasmo;</p>
 <p>Resiliência, e de fácil adaptabilidade.</p>
-<p><h5>Dentista especialista em Ortodontia pela USP</h5></p>
