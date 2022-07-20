@@ -1,11 +1,11 @@
-#  Oi, sou o  Davi 🌛
+#  Oi, sou o  Davi 👋
 
-<h3><p>💻<strong>Desenvolvedor Fullstack Jr.</strong></p></h3>
+<h3><p>💻<strong>Desenvolvedor Fullstack Jr.</strong>💻</p></h3>
 
 <p>🥇Sempre buscando aprender e melhorar;</p>
 <p>🥈Proatividade;</p>
 <p>🥉Dinâmico e com grande entusiasmo;</p>
-<p>🏆Resiliência, e de fácil adaptabilidade.</p>
+<p>Resiliência, e de fácil adaptabilidade.</p>
 
 ## 📚 Linguagens e Ferramentas
 <div align="center">
