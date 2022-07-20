@@ -1,6 +1,6 @@
 #  Oi, sou o  Davi 👋
 
-<h3><p>💻<strong>Desenvolvedor Fullstack Jr.</strong>💻</p></h3>
+<h3><p>💻<strong>Desenvolvedor Fullstack Jr. | Capaz de fazer Frontend e Backend</strong>💻</p></h3>
 
 <p>🥇Sempre buscando aprender e melhorar;</p>
 <p>🥈Proatividade;</p>
