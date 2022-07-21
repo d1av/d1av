@@ -1,4 +1,4 @@
-#  Oi, sou o  Davi 👋
+#  Oi, sou o  Davi 👋<a href="https://davi38.github.io/" target="_blank">Portfólio</a>
 
 <h3><p>💻<strong>Desenvolvedor Fullstack Jr. | Capaz de fazer Frontend e Backend</strong>💻</p></h3>
 
