@@ -1,4 +1,5 @@
-#  Oi, sou o  Davi 👋<a href="https://davi38.github.io/" target="_blank">Portfólio</a>
+#  Oi, sou o  Davi 👋 [Portfólio](https://davi38.github.io/)
+
 
 <h3><p>💻<strong>Desenvolvedor Fullstack Jr. | Capaz de fazer Frontend e Backend</strong>💻</p></h3>
 
