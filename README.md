@@ -4,9 +4,6 @@
 <h3><p>💻<strong>Desenvolvedor Fullstack Jr. | Capaz de fazer Frontend e Backend</strong>💻</p></h3>
 
 <p>🥇Sempre buscando aprender e melhorar;</p>
-<p>🥈Proatividade;</p>
-<p>🥉Dinâmico e com grande entusiasmo;</p>
-<p>Resiliência, e de fácil adaptabilidade.</p>
 
 ## 📚 Linguagens e Ferramentas
 <div align="center">
