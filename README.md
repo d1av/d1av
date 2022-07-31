@@ -14,6 +14,9 @@
   <!-- <img align="center" alt="MySQL" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"> -->
   <img align="center" alt="Node" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg">
   <img align="center" alt="GIT" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg">
+  <img align="center" alt="GIT" height="40" width="50" src="https://cdn.jsdelivr.net/npm/devicons@1.8.0/!SVG/github_badge.svg">
+   <img align="center" alt="GIT" height="40" width="50" src="https://cdn.cdnlogo.com/logos/n/80/next-js.svg">
+   <img align="center" alt="GIT" height="40" width="50" src="https://cdn.cdnlogo.com/logos/t/34/tailwind-css.svg">
 </div>
         
 ## 📱 Contato  
