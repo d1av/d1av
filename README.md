@@ -1,7 +1,7 @@
 #  Oi, sou o  Davi 👋 [Portfólio](https://davi38.github.io/)
 
 
-<h3><p>💻<strong>Desenvolvedor Fullstack | Capaz de fazer Frontend e Backend</strong>💻</p></h3>
+<h3><p>💻<strong>Desenvolvedor Frontend e Backend</strong>💻</p></h3>
 
 ## 📚 Linguagens e Ferramentas
 <div align="center">
