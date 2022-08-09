@@ -3,8 +3,6 @@
 
 <h3><p>💻<strong>Desenvolvedor Fullstack | Capaz de fazer Frontend e Backend</strong>💻</p></h3>
 
-<p>🥇Sempre buscando aprender e melhorar;</p>
-
 ## 📚 Linguagens e Ferramentas
 <div align="center">
   <img align="center" alt="JavaScript" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
