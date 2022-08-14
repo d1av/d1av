@@ -4,7 +4,7 @@
 <h3><p>i'm a <strong>Developer</strong></p></h3>
 <p>🖥️ Self Taught Developer.</p>
 <p>🌱 I’m currently learning Django, Electron.js, and Microservices.</p>
-<p>🥅 2022 Goals: Focus on programming techniques, problem solving, and analytical skills.</p>
+<p>🥅 2022 Goals: Focus on programming techniques, problem solving and analytical skills.</p>
 
 ## 📚 Main Skills
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/davi38/davi38/main/images/visual-studio-code.png" />
