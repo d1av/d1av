@@ -38,4 +38,4 @@
 <p><img src="https://komarev.com/ghpvc/?username=davi38&label=Profile%20views&color=0e75b6&style=flat" alt="davi38" /></p>
   </div>
 
-[website](https://davi38.github.io/)
+[website]: https://davi38.github.io/
