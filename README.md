@@ -1,7 +1,10 @@
-#  Oi, sou o [Davi][website] <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35px">
+#  Hi, i am [David][website] <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35px">
 
 
-<h3><p>💻<strong>Developer Fullstack</strong>💻</p></h3>
+<h3><p>i'm a <strong>Developer</strong></p></h3>
+<p>🖥️ Self Taught Developer.</p>
+<p>🌱 I’m currently learning Django, Electron.js, and Microservices.</p>
+<p>🥅 2022 Goals: Focus on programming techniques, problem solving, and analytical skills.</p>
 
 ## 📚 Main Skills
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/davi38/davi38/main/images/visual-studio-code.png" />
@@ -19,6 +22,7 @@
 <img align="left" alt="postgresSQL" width="26px" src="https://raw.githubusercontent.com/davi38/davi38/main/images/postgresSQL.png" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/davi38/davi38/main/images/git.png" />
 </div>
+<hr />
 
 ## 📱 Contact
 <div align="center">
@@ -35,7 +39,6 @@
 <a href="https://git.io/streak-stats">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=davi38&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D" />
 </a>
-<p><img src="https://komarev.com/ghpvc/?username=davi38&label=Profile%20views&color=0e75b6&style=flat" alt="davi38" /></p>
   </div>
 
 [website]: https://davi38.github.io/
