@@ -22,6 +22,7 @@
 <img align="left" alt="Flutter" width="26px" src="https://raw.githubusercontent.com/davi38/davi38/main/images/flutter.png" />
 <img align="left" alt="mySQL" width="26px" src="https://raw.githubusercontent.com/davi38/davi38/main/images/mySQL2.png" />
 <img align="left" alt="postgresSQL" width="26px" src="https://raw.githubusercontent.com/davi38/davi38/main/images/postgresSQL.png" />
+<img align="left" alt="Mongodb" width="26px" src="https://raw.githubusercontent.com/davi38/davi38/main/images/mongodb.png" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/davi38/davi38/main/images/git.png" />
 </div>
 <hr />
