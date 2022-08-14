@@ -11,6 +11,7 @@
 <img align="left" alt="html5" width="26px" src="https://raw.githubusercontent.com/davi38/davi38/main/images/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/davi38/davi38/main/images/css.png" />
 <img align="left" alt="sass" width="26px" src="https://raw.githubusercontent.com/davi38/davi38/main/images/sass.png" />
+<img align="left" alt="tailwindCSS" width="26px" src="https://raw.githubusercontent.com/davi38/davi38/main/images/tailwindCSS.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/davi38/davi38/main/images/javascript.png" />
 <img align="left" alt="Typescript" width="26px" src="https://raw.githubusercontent.com/davi38/davi38/main/images/ts.png" />
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/davi38/davi38/main/images/python.png" />
@@ -19,6 +20,7 @@
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/davi38/davi38/main/images/nodejs.png" />
 <img align="left" alt="Django" width="26px" src="https://raw.githubusercontent.com/davi38/davi38/main/images/django.png" />
 <img align="left" alt="Flutter" width="26px" src="https://raw.githubusercontent.com/davi38/davi38/main/images/flutter.png" />
+<img align="left" alt="mySQL" width="26px" src="https://raw.githubusercontent.com/davi38/davi38/main/images/mySQL.png" />
 <img align="left" alt="postgresSQL" width="26px" src="https://raw.githubusercontent.com/davi38/davi38/main/images/postgresSQL.png" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/davi38/davi38/main/images/git.png" />
 </div>
