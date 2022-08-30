@@ -2,9 +2,9 @@
 
 
 <h3><p>i'm a <strong>Developer</strong></p></h3>
-<p>🖥️ Self Taught Developer.</p>
+<p>🖥️ Front-end and Back-end WebDeveloper.</p>
 <p>🌱 I’m currently learning Django, Electron.js, and Microservices.</p>
-<p>🥅 2022 Goals: Focus on programming techniques, problem solving, and analytical skills.</p>
+<p>🥅 2022 Goals: Focus on programming techniques, problem solving and analytical skills.</p>
 
 ## 📚 Main Skills
 
