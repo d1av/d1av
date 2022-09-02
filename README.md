@@ -1,8 +1,6 @@
 #  Hi, i am [David][website] <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35px">
 
-
-<h3><p>i'm a <strong>Developer</strong></p></h3>
-<p>🖥️ Full-stack Developer.</p>
+<h3><p>🖥️ Full-stack Developer.</p></h3>
 
 ## 📚 Main Skills
 
