@@ -3,11 +3,8 @@
 
 <h3><p>i'm a <strong>Developer</strong></p></h3>
 <p>🖥️ Full-stack Developer.</p>
-<p>🌱 I’m currently learning Django, Electron.js, and Microservices.</p>
-<p>🥅 2022 Goals: Focus on programming techniques, problem solving and analytical skills.</p>
 
 ## 📚 Main Skills
-
 
 <img align="left" alt="Typescript" width="26px" src="https://raw.githubusercontent.com/davi38/davi38/main/images/ts.png" />
 <img align="left" alt="react" width="26px" src="https://raw.githubusercontent.com/davi38/davi38/main/images/react.png" />
