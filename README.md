@@ -2,6 +2,7 @@
 ## 📚 Main Skills
 
 <img align="left" alt="Typescript" width="26px" src="https://raw.githubusercontent.com/davi38/davi38/main/images/ts.png" />
+<img align="left" alt="Javascript" width="26px" src="https://raw.githubusercontent.com/davi38/davi38/main/images/javascript.png" />
 <img align="left" alt="react" width="26px" src="https://raw.githubusercontent.com/davi38/davi38/main/images/react.png" />
 <img align="left" alt="Nextjs" width="26px" src="https://raw.githubusercontent.com/davi38/davi38/main/images/next_logo.png" />
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/davi38/davi38/main/images/nodejs.png" />
