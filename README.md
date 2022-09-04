@@ -1,7 +1,4 @@
-#  Hi, i am [David][website] <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35px">
-
-<h3><p>🖥️ Full-stack Developer.</p></h3>
-
+#  Hi, i am [David][website] <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35px"> 🖥️ Full-stack Developer.
 ## 📚 Main Skills
 
 <img align="left" alt="Typescript" width="26px" src="https://raw.githubusercontent.com/davi38/davi38/main/images/ts.png" />
@@ -26,15 +23,9 @@
 </div>
 
 ## 📊 Statistics
-  <div align="center">
-<a href="https://github.com/anuraghazra/github-readme-stats">
+  <div align="center" style="height:500px;margin:0" >
   <img align="center" width="400px" height="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davi38&layout=compact&theme=radical&hide_border=true" />
-</a>
-<a href="https://git.io/streak-stats">
   <img align="center" width="400px" height="400px" src="https://github-readme-streak-stats.herokuapp.com?user=davi38&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D" />
-</a>
   </div>
 
-[website]: https://davi38.github.io/
-
-## 📱 Projects \/
+## 📱 Projects Below
