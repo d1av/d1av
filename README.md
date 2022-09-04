@@ -28,10 +28,10 @@
 ## 📊 Statistics
   <div align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davi38&layout=compact&theme=radical&hide_border=true" />
+  <img align="center" width="400px" height="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davi38&layout=compact&theme=radical&hide_border=true" />
 </a>
 <a href="https://git.io/streak-stats">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=davi38&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D" />
+  <img align="center" width="400px" height="400px" src="https://github-readme-streak-stats.herokuapp.com?user=davi38&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D" />
 </a>
   </div>
 
