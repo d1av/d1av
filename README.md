@@ -13,7 +13,8 @@
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/davi38/davi38/main/images/git.png" />
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/davi38/davi38/main/images/python.png" />
 </div>
-<hr />
+<br />
+
 
 ## 📱 Contact
 <div align="center">
