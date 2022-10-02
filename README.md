@@ -1,7 +1,7 @@
 #  Hi, i am [David][website] <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35px"> Full-stack Developer.
   <br />
 
-#  :wrench: Hard Skills
+##  :wrench: Hard Skills
 <strong>
 <ul>
 <li>
@@ -47,9 +47,6 @@
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/davi38/davi38/main/images/python.png" />
 <img align="left" alt="Flutter" width="26px" src="https://raw.githubusercontent.com/davi38/davi38/main/images/flutter.png" /> -->
 
-</div>
-<br />
-
 ## 📊 Statistics
   <div align="center" style="height:500px;margin:0" >
   <img align="center" width="340px" height="340px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davi38&hide_border=true&langs_count=10&theme=radical&layout=compact" />
@@ -59,6 +56,7 @@
 ## :package: Archieve of my older projects [here][archive]
 
 ## 📱 Recent Projects Below
+</div>
 
 [website]: https://davi38.github.io/
 [archive]: https://github.com/Davi-Archive
