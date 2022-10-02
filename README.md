@@ -1,7 +1,7 @@
 #  Hi, i am [David][website] <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35px"> Full-stack Developer.
   <br />
 
-##  :wrench: Hard Skills
+## :wrench: Hard Skills
 <strong>
 <ul>
 <li>
@@ -41,11 +41,13 @@
 </li>
 </li>
 <li><p><img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/davi38/davi38/main/images/git.png" />Git</p></li>
-<ul>
+</ul>
 </strong>
 <!-- <img align="left" alt="Django" width="26px" src="https://raw.githubusercontent.com/davi38/davi38/main/images/django.png" />
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/davi38/davi38/main/images/python.png" />
 <img align="left" alt="Flutter" width="26px" src="https://raw.githubusercontent.com/davi38/davi38/main/images/flutter.png" /> -->
+
+<br />
 
 ## 📊 Statistics
   <div align="center" style="height:500px;margin:0" >
