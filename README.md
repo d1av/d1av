@@ -47,6 +47,7 @@ Other tools:
   </strong>
   </p>
 </li>
+</ul>
 <!-- <img align="left" alt="Django" width="26px" src="https://raw.githubusercontent.com/davi38/davi38/main/images/django.png" />
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/davi38/davi38/main/images/python.png" />
 <img align="left" alt="Flutter" width="26px" src="https://raw.githubusercontent.com/davi38/davi38/main/images/flutter.png" /> -->
