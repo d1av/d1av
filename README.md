@@ -19,10 +19,10 @@
 Frontend:
 <strong>
 <img alt="react" width="26px" src="https://raw.githubusercontent.com/davi38/davi38/main/images/react.png" />&nbsp; React , &nbsp;
-<img alt="Redux" width="26px" src="https://raw.githubusercontent.com/davi38/davi38/main/images/react.png" />&nbsp; Redux , &nbsp;
+<img alt="Redux" width="26px" src="https://raw.githubusercontent.com/davi38/davi38/main/images/redux.png" />&nbsp; Redux , &nbsp;
   <img alt="Nextjs" width="26px" src="https://raw.githubusercontent.com/davi38/davi38/main/images/next_logo.png" /> &nbsp;Next.js ,&nbsp;
-<img alt="react" width="26px" src="https://raw.githubusercontent.com/davi38/davi38/main/images/react.png" />&nbsp; Vue and &nbsp;
-<img alt="Nuxt.js" width="26px" src="https://raw.githubusercontent.com/davi38/davi38/main/images/next_logo.png" /> &nbsp;Nuxt.js
+<img alt="react" width="26px" src="https://raw.githubusercontent.com/davi38/davi38/main/images/vue.png" />&nbsp; Vue and &nbsp;
+<img alt="Nuxt.js" width="26px" src="https://raw.githubusercontent.com/davi38/davi38/main/images/nuxt.png" /> &nbsp;Nuxt.js
 </strong>
 </p>
 </li>
@@ -31,10 +31,10 @@ Frontend:
 Backend:
       <strong>
         <img alt="Node.js" width="26px" src="https://raw.githubusercontent.com/davi38/davi38/main/images/nodejs.png" />&nbsp; Node.js ,&nbsp;
-        <img alt="Express.js" width="26px" src="https://raw.githubusercontent.com/davi38/davi38/main/images/nodejs.png" />&nbsp; Express.js ,&nbsp;
+        <img alt="Express.js" width="26px" src="https://raw.githubusercontent.com/davi38/davi38/main/images/express.png" />&nbsp; Express.js ,&nbsp;
         <img alt="Mongodb" width="26px" src="https://raw.githubusercontent.com/davi38/davi38/main/images/mongodb.png" />&nbsp; MongoDB , &nbsp;
         <img alt="postgresSQL" width="26px" src="https://raw.githubusercontent.com/davi38/davi38/main/images/postgresSQL.png" />&nbsp; PostgreSQL and &nbsp;
-        <img alt="JWT" width="26px" src="https://raw.githubusercontent.com/davi38/davi38/main/images/next_logo.png" /> &nbsp;JWT
+        <img alt="JWT" width="26px" src="https://raw.githubusercontent.com/davi38/davi38/main/images/jwt.png" /> &nbsp;JWT
       </strong>
     </p>
 </li>
