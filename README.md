@@ -1,72 +1,44 @@
-# Hi, i am [David][website] <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35px"> Full-stack Developer.
+#  Hi, i am [David][website] <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35px">
 
-  <br />
 
-## :wrench: Hard Skills
+<h3><p>i'm a <strong>Developer</strong></p></h3>
+<p>🖥️ Full-stack Developer.</p>
+<p>🌱 I’m currently learning Django, Electron.js, and Microservices.</p>
+<p>🥅 2022 Goals: Focus on programming techniques, problem solving and analytical skills.</p>
 
-<ul>
-<li>
-<p>Languages: &nbsp;
-<strong>
-<img alt="Typescript" width="26px" src="https://raw.githubusercontent.com/davi38/davi38/main/images/ts.png" /> Typescript and &nbsp;
-<img alt="Javascript" width="26px" src="https://raw.githubusercontent.com/davi38/davi38/main/images/javascript.png" /> &nbsp;Javascript
-</strong>
-</p>
-</li>
-<li>
-<p>
+## 📚 Main Skills
 
-Frontend:
-<strong>
-<img alt="react" width="26px" src="https://raw.githubusercontent.com/davi38/davi38/main/images/react.png" /> React and &nbsp;
-<img alt="Nextjs" width="26px" src="https://raw.githubusercontent.com/davi38/davi38/main/images/next_logo.png" /> &nbsp;Next.js
-<img alt="Redux" width="26px" src="https://raw.githubusercontent.com/davi38/davi38/main/images/react.png" /> Redux and &nbsp;
-<img alt="react" width="26px" src="https://raw.githubusercontent.com/davi38/davi38/main/images/react.png" /> Vue and &nbsp;
-<img alt="Nuxt.js" width="26px" src="https://raw.githubusercontent.com/davi38/davi38/main/images/next_logo.png" /> &nbsp;Nuxt.js
-</strong>
-</p>
-</li>
-<li>
-    <p>
-Backend:
-      <strong>
-        <img alt="Node.js" width="26px" src="https://raw.githubusercontent.com/davi38/davi38/main/images/nodejs.png" /> Node.js,
-        <img alt="Express.js" width="26px" src="https://raw.githubusercontent.com/davi38/davi38/main/images/nodejs.png" /> Express.js
-        <img alt="Mongodb" width="26px" src="https://raw.githubusercontent.com/davi38/davi38/main/images/mongodb.png" />MongoDB and &nbsp;
-        <img alt="postgresSQL" width="26px" src="https://raw.githubusercontent.com/davi38/davi38/main/images/postgresSQL.png" />&nbsp; PostgreSQL
-        <img alt="JWT" width="26px" src="https://raw.githubusercontent.com/davi38/davi38/main/images/next_logo.png" /> &nbsp;JWT
-      </strong>
-    </p>
-</li>
 
-<li>
-  <p>
-Other tools:
-  <strong>
-      <img alt="Git" width="26px" src="https://raw.githubusercontent.com/davi38/davi38/main/images/git.png" /> Git
-  </strong>
-  </p>
-</li>
-</ul>
-</strong>
-<!-- <img align="left" alt="Django" width="26px" src="https://raw.githubusercontent.com/davi38/davi38/main/images/django.png" />
+<img align="left" alt="Typescript" width="26px" src="https://raw.githubusercontent.com/davi38/davi38/main/images/ts.png" />
+<img align="left" alt="react" width="26px" src="https://raw.githubusercontent.com/davi38/davi38/main/images/react.png" />
+<img align="left" alt="Nextjs" width="26px" src="https://raw.githubusercontent.com/davi38/davi38/main/images/next_logo.png" />
+<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/davi38/davi38/main/images/nodejs.png" />
+<img align="left" alt="mySQL" width="26px" src="https://raw.githubusercontent.com/davi38/davi38/main/images/mySQL2.png" />
+<img align="left" alt="postgresSQL" width="26px" src="https://raw.githubusercontent.com/davi38/davi38/main/images/postgresSQL.png" />
+<img align="left" alt="Mongodb" width="26px" src="https://raw.githubusercontent.com/davi38/davi38/main/images/mongodb.png" />
+<img align="left" alt="Django" width="26px" src="https://raw.githubusercontent.com/davi38/davi38/main/images/django.png" />
+<img align="left" alt="Flutter" width="26px" src="https://raw.githubusercontent.com/davi38/davi38/main/images/flutter.png" />
+<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/davi38/davi38/main/images/git.png" />
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/davi38/davi38/main/images/python.png" />
-<img align="left" alt="Flutter" width="26px" src="https://raw.githubusercontent.com/davi38/davi38/main/images/flutter.png" /> -->
+</div>
+<hr />
 
-<br />
+## 📱 Contact
+<div align="center">
+  <a href= "https://www.linkedin.com/in/davialvesoliveira" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href = "https://twitter.com/DaviAlvesOli" target="_blank"><img src="https://img.shields.io/badge/twitter-0054F7?style=for-the-badge&logo=twiter&logoColor=white" target="_blank"></a>
+  <a href = "mailto:davi3alves@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+</div>
 
 ## 📊 Statistics
-
-  <div align="center" style="height:500px;margin:0" >
-  <img align="center" width="340px" height="340px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davi38&hide_border=true&langs_count=10&theme=radical&layout=compact" />
-  <img align="center" width="400px" height="400px" src="https://github-readme-streak-stats.herokuapp.com?user=davi38&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D" />
+  <div align="center">
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davi38&layout=compact&theme=radical&hide_border=true" />
+</a>
+<a href="https://git.io/streak-stats">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=davi38&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D" />
+</a>
   </div>
-
-## :package: Archieve of my older projects [here][archive]
-
-## 📱 Recent Projects Below
-
-</div>
 
 [website]: https://davi38.github.io/
 [archive]: https://github.com/Davi-Archive
