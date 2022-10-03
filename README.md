@@ -2,16 +2,17 @@
   <br />
 
 ## :wrench: Hard Skills
-<strong>
 <ul>
 <li>
-<p>
-<img align="left" alt="Typescript" width="26px" src="https://raw.githubusercontent.com/davi38/davi38/main/images/ts.png" /> Typescript and &nbsp;
+<p>Languages: &nbsp;
+<strong>
+<img alt="Typescript" width="26px" src="https://raw.githubusercontent.com/davi38/davi38/main/images/ts.png" /> Typescript and &nbsp;
 <img alt="Javascript" width="26px" src="https://raw.githubusercontent.com/davi38/davi38/main/images/javascript.png" /> &nbsp;Javascript
+</strong>
 </p>
 </li>
 <li>
-<p>
+<p>Frontend:
 <img align="left" alt="react" width="26px" src="https://raw.githubusercontent.com/davi38/davi38/main/images/react.png" /> React and &nbsp;
 <img alt="Nextjs" width="26px" src="https://raw.githubusercontent.com/davi38/davi38/main/images/next_logo.png" /> &nbsp;Next.js
 </p>
