@@ -54,7 +54,6 @@ Other tools:
   </strong>
   </p>
 </li>
-=======
 <p>Frontend:
 <img align="left" alt="react" width="26px" src="https://raw.githubusercontent.com/davi38/davi38/main/images/react.png" /> React and &nbsp;
 <img alt="Nextjs" width="26px" src="https://raw.githubusercontent.com/davi38/davi38/main/images/next_logo.png" /> &nbsp;Next.js
@@ -85,7 +84,6 @@ Other tools:
 </li>
 </li>
 <li><p><img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/davi38/davi38/main/images/git.png" />Git</p></li>
->>>>>>> b3eede4f314bf9fd7215487ff85a6a55403e4bb4
 </ul>
 </strong>
 <!-- <img align="left" alt="Django" width="26px" src="https://raw.githubusercontent.com/davi38/davi38/main/images/django.png" />
@@ -95,10 +93,7 @@ Other tools:
 <br />
 
 ## 📊 Statistics
-<<<<<<< HEAD
 
-=======
->>>>>>> b3eede4f314bf9fd7215487ff85a6a55403e4bb4
   <div align="center" style="height:500px;margin:0" >
   <img align="center" width="340px" height="340px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davi38&hide_border=true&langs_count=10&theme=radical&layout=compact" />
   <img align="center" width="400px" height="400px" src="https://github-readme-streak-stats.herokuapp.com?user=davi38&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D" />
@@ -107,10 +102,7 @@ Other tools:
 ## :package: Archieve of my older projects [here][archive]
 
 ## 📱 Recent Projects Below
-<<<<<<< HEAD
 
-=======
->>>>>>> b3eede4f314bf9fd7215487ff85a6a55403e4bb4
 </div>
 
 [website]: https://davi38.github.io/
