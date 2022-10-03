@@ -31,10 +31,10 @@ Frontend:
 Backend:
       <strong>
         <img alt="Node.js" width="26px" src="https://raw.githubusercontent.com/davi38/davi38/main/images/nodejs.png" />&nbsp; Node.js ,&nbsp;
-        <img alt="Express.js" width="26px" src="https://raw.githubusercontent.com/davi38/davi38/main/images/express.png" />&nbsp; Express.js ,&nbsp;
+        <img alt="Express.js" width="76px" src="https://raw.githubusercontent.com/davi38/davi38/main/images/express.png" />&nbsp; Express.js ,&nbsp;
         <img alt="Mongodb" width="26px" src="https://raw.githubusercontent.com/davi38/davi38/main/images/mongodb.png" />&nbsp; MongoDB , &nbsp;
         <img alt="postgresSQL" width="26px" src="https://raw.githubusercontent.com/davi38/davi38/main/images/postgresSQL.png" />&nbsp; PostgreSQL and &nbsp;
-        <img alt="JWT" width="26px" src="https://raw.githubusercontent.com/davi38/davi38/main/images/jwt.png" /> &nbsp;JWT
+        <img alt="JWT" width="76px" src="https://raw.githubusercontent.com/davi38/davi38/main/images/jwt.png" /> &nbsp;JWT
       </strong>
     </p>
 </li>
