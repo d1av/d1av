@@ -61,7 +61,7 @@ Other tools:
   <img align="center" width="400px" height="400px" src="https://github-readme-streak-stats.herokuapp.com?user=davi38&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D" />
   </div>
 
-## :package: Archieve of my older projects [here][archive]
+## :package: Archieve of my older projects [here][archive] (for better readability).
 
 ## 📱 Recent Projects Below
 
