@@ -1,5 +1,7 @@
-#  Hi, i am [David][website] <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35px"> Full-stack Developer.
+#  Hi, i am [David][weben] <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35px"> Full-stack Developer.
   <br />
+  
+  ### [English Portfolio][webpt]  and   [Portuguese portfolio][webpt]
 
 ## :wrench: Hard Skills
 
@@ -67,5 +69,6 @@ Other tools:
 
 </div>
 
-[website]: https://davi38.github.io/
+[webpt]: https://davi38.github.io/
 [archive]: https://github.com/Davi-Archive
+[weben]: https://portfolio-davi.vercel.app/
