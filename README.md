@@ -53,7 +53,8 @@ Backend:
   <p>
 Other tools:
   <strong>
-      <img alt="Git" width="26px" src="https://raw.githubusercontent.com/d1av/d1av/main/images/git.png" /> Git
+      <img alt="Git" width="26px" src="https://raw.githubusercontent.com/d1av/d1av/main/images/git.png" /> Git and
+      <img alt="Wordpress" width="26px" src="https://raw.githubusercontent.com/d1av/d1av/main/images/wordpress.png" /> Wordpress
   </strong>
   </p>
 </li>
