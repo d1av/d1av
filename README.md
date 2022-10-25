@@ -2,13 +2,9 @@
   <br />
 
 
-I'm motivated
+### I'm motivated, creative and open to learning new things!
 
-Creative
-
-and open to learning new things! (Contact me with interesting things)
-
-Check out my creations and projects on my github or portfolio. 
+### Check out my creations and projects on my github or portfolio. 
 
   ### [English Portfolio][weben]  and   [Portuguese portfolio][webpt]
 
