@@ -14,8 +14,11 @@
 <li>
   <p><span style={color:'orange'} >Languages: &nbsp;</span>
 <strong>
-<img alt="Typescript" width="26px" src="https://raw.githubusercontent.com/d1av/d1av/main/images/ts.png" /> Typescript and &nbsp;
-<img alt="Javascript" width="26px" src="https://raw.githubusercontent.com/d1av/d1av/main/images/javascript.png" /> &nbsp;Javascript
+<img alt="Java" width="36px" src="https://raw.githubusercontent.com/d1av/d1av/main/images/java.png" /> &nbsp;Java,
+<img alt="C Sharp" width="36px" src="https://raw.githubusercontent.com/d1av/d1av/main/images/c.png" /> &nbsp;C#,
+<img alt="Typescript" width="26px" src="https://raw.githubusercontent.com/d1av/d1av/main/images/ts.png" /> Typescript, &nbsp;
+<img alt="Javascript" width="26px" src="https://raw.githubusercontent.com/d1av/d1av/main/images/javascript.png" /> &nbsp;Javascript,
+<img alt="PHP" width="36px" src="https://raw.githubusercontent.com/d1av/d1av/main/images/php.png" /> &nbsp;PHP
 </strong>
 </p>
 </li>
@@ -26,10 +29,8 @@
 Frontend:
 <strong>
 <img alt="react" width="26px" src="https://raw.githubusercontent.com/d1av/d1av/main/images/react.png" />&nbsp; React , &nbsp;
-<img alt="Redux" width="26px" src="https://raw.githubusercontent.com/d1av/d1av/main/images/redux.png" />&nbsp; Redux , &nbsp;
-  <img alt="Nextjs" width="26px" src="https://raw.githubusercontent.com/d1av/d1av/main/images/next_logo.png" /> &nbsp;Next.js ,&nbsp;
-<img alt="react" width="26px" src="https://raw.githubusercontent.com/d1av/d1av/main/images/vue.png" />&nbsp; Vue and &nbsp;
-<img alt="Nuxt.js" width="26px" src="https://raw.githubusercontent.com/d1av/d1av/main/images/nuxt.png" /> &nbsp;Nuxt.js
+<img alt="Angular" width="26px" src="https://raw.githubusercontent.com/d1av/d1av/main/images/angular.png" />&nbsp; Angular &nbsp; and
+<img alt="Nextjs" width="26px" src="https://raw.githubusercontent.com/d1av/d1av/main/images/next_logo.png" /> &nbsp;Next.js&nbsp;
 </strong>
 </p>
 </li>
@@ -37,11 +38,13 @@ Frontend:
     <p>
 Backend:
       <strong>
-        <img alt="Node.js" width="26px" src="https://raw.githubusercontent.com/d1av/d1av/main/images/nodejs.png" />&nbsp; Node.js ,&nbsp;
-        <img alt="Express.js" width="76px" src="https://raw.githubusercontent.com/d1av/d1av/main/images/express.png" />&nbsp; Express.js ,&nbsp;
+        <img alt="Spring Boot" width="56px" src="https://raw.githubusercontent.com/d1av/d1av/main/images/sprboot.png" />&nbsp; Spring Boot, &nbsp;
+        <img alt=".NET" width="86px" src="https://raw.githubusercontent.com/d1av/d1av/main/images/netcore.png" />&nbsp; .NET, &nbsp;
+        <img alt="MySQL" width="26px" src="https://raw.githubusercontent.com/d1av/d1av/main/images/mySQL2.png" />&nbsp; MySQL, &nbsp;
+        <img alt="Laravel" width="76px" src="https://raw.githubusercontent.com/d1av/d1av/main/images/laravel.png" />&nbsp; Laravel,&nbsp;
+        <img alt="Node.js" width="26px" src="https://raw.githubusercontent.com/d1av/d1av/main/images/nodejs.png" />&nbsp; Node.js ,&nbsp;        
         <img alt="Mongodb" width="26px" src="https://raw.githubusercontent.com/d1av/d1av/main/images/mongodb.png" />&nbsp; MongoDB , &nbsp;
-        <img alt="postgresSQL" width="26px" src="https://raw.githubusercontent.com/d1av/d1av/main/images/postgresSQL.png" />&nbsp; PostgreSQL and &nbsp;
-        <img alt="JWT" width="76px" src="https://raw.githubusercontent.com/d1av/d1av/main/images/jwt.png" /> &nbsp;JWT
+        <img alt="JWT" width="76px" src="https://raw.githubusercontent.com/d1av/d1av/main/images/jwt.png" /> &nbsp;JWT / Authentication
       </strong>
     </p>
 </li>
