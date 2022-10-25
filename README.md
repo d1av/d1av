@@ -2,8 +2,6 @@
 
 ### Sou motivado, criativo e aberto para aprender novas coisas!
 
-  ### [Portfolio em portugues][webpt]
-
 ## :wrench: Habilidades
 
 <ul>
