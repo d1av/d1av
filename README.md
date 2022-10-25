@@ -1,14 +1,14 @@
-#  Hi, i am [David][weben] <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35px"> Full-stack Developer.
+#  Olá, eu sou [Davi][webpt] <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35px"> Full-stack Developer.
   <br />
 
 
-### I'm motivated, creative and open to learning new things!
+### Sou motivado, criativo e aberto para aprender novas coisas!
 
-### Check out my creations and projects on my github or portfolio. 
+### Veja meus projetos e criações no meu github e portfolio
 
-  ### [English Portfolio][weben]  and   [Portuguese portfolio][webpt]
+  ### [Portfolio em portugues][webpt]
 
-## :wrench: Hard Skills
+## :wrench: Habilidades
 
 <ul>
 <li>
@@ -58,22 +58,19 @@ Other tools:
   </p>
 </li>
 </ul>
-<!-- <img align="left" alt="Django" width="26px" src="https://raw.githubusercontent.com/d1av/d1av/main/images/django.png" />
-<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/d1av/d1av/main/images/python.png" />
-<img align="left" alt="Flutter" width="26px" src="https://raw.githubusercontent.com/d1av/d1av/main/images/flutter.png" /> -->
 
 <br />
 
-## 📊 Statistics
+## 📊 Estatísticas
 
   <div align="center" style="height:500px;margin:0" >
   <img align="center" width="340px" height="340px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=d1av&hide_border=true&langs_count=10&theme=radical&layout=compact" />
   <img align="center" width="400px" height="400px" src="https://github-readme-streak-stats.herokuapp.com?user=d1av&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D" />
   </div>
 
-## :package: Archieve of my older projects [here][archive] (for better readability).
+## :package: Arquivo dos meus projetos e estudos antigos estão aqui [here][archive] (foi feito para melhor visualização).
 
-## 📱 Recent Projects Below
+## 📱 Projetos recentes abaixo
 
 </div>
 
