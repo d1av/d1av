@@ -12,7 +12,7 @@
 
 <ul>
 <li>
-  <p><span style={color:'orange'} >Languages: &nbsp;</span>
+  <p><span style={color:'orange'} >Linguagens: &nbsp;</span>
 <strong>
 <img alt="Java" width="36px" src="https://raw.githubusercontent.com/d1av/d1av/main/images/java.png" /> &nbsp;Java,
 <img alt="C Sharp" width="36px" src="https://raw.githubusercontent.com/d1av/d1av/main/images/c.png" /> &nbsp;C#,
@@ -51,7 +51,7 @@ Backend:
 
 <li>
   <p>
-Other tools:
+Outras Ferramentas:
   <strong>
       <img alt="Git" width="26px" src="https://raw.githubusercontent.com/d1av/d1av/main/images/git.png" /> Git and
       <img alt="Wordpress" width="26px" src="https://raw.githubusercontent.com/d1av/d1av/main/images/wordpress.png" /> Wordpress
