@@ -1,6 +1,11 @@
 #  Hi, i am [David][weben] <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35px"> Full-stack Developer.
   <br />
 
+
+### I'm motivated, creative and open to learning new things!
+
+### Check out my creations and projects on my github or portfolio. 
+
   ### [English Portfolio][weben]  and   [Portuguese portfolio][webpt]
 
 ## :wrench: Hard Skills
