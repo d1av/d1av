@@ -74,7 +74,7 @@ Outras Ferramentas:
   <img align="center" width="400px" height="400px" src="https://github-readme-streak-stats.herokuapp.com?user=d1av&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D" />
   </div>
 
-## :package: Arquivo dos meus projetos e estudos antigos estão aqui [here][archive] (foi feito para melhor visualização).
+## :package: Arquivo dos meus projetos e estudos antigos estão [AQUI][archive] .
 
 ## 📱 Projetos recentes abaixo
 
