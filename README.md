@@ -37,8 +37,7 @@ Backend:
         <img alt="Spring Boot" width="56px" src="https://raw.githubusercontent.com/d1av/d1av/main/images/sprboot.png" />&nbsp; Spring Boot, &nbsp;
         <img alt=".NET" width="86px" src="https://raw.githubusercontent.com/d1av/d1av/main/images/netcore.png" />&nbsp; .NET, &nbsp;
         <img alt="Laravel" width="76px" src="https://raw.githubusercontent.com/d1av/d1av/main/images/laravel.png" />&nbsp; Laravel,&nbsp;
-        <img alt="Node.js" width="26px" src="https://raw.githubusercontent.com/d1av/d1av/main/images/nodejs.png" />&nbsp; Node.js ,&nbsp;        
-        <img alt="JWT" width="76px" src="https://raw.githubusercontent.com/d1av/d1av/main/images/jwt.png" /> &nbsp;JWT / Authentication
+        <img alt="Node.js" width="26px" src="https://raw.githubusercontent.com/d1av/d1av/main/images/nodejs.png" />&nbsp; Node.js&nbsp;        
     </p>
 </li>
 
