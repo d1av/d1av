@@ -70,7 +70,7 @@ Outras Ferramentas:
 ## 📊 Estatísticas
 
   <div align="center" style="height:500px;margin:0" >
-  <img align="center" width="340px" height="340px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=d1av&hide_border=true&langs_count=10&theme=radical&layout=compact" />
+  <img align="center" width="340px" height="340px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=d1av&hide_border=true&langs_count=8&theme=radical&layout=compact" />
   <img align="center" width="400px" height="400px" src="https://github-readme-streak-stats.herokuapp.com?user=d1av&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D" />
   </div>
 
