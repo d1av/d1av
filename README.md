@@ -9,11 +9,10 @@
 <strong>
   <p><span style={color:'orange'} >Linguagens: &nbsp;</span>
 </strong>
-<img alt="Java" width="36px" src="https://raw.githubusercontent.com/d1av/d1av/main/images/java.png" /> &nbsp;Java,
-  <img alt="PHP" width="36px" src="https://raw.githubusercontent.com/d1av/d1av/main/images/python.png" /> &nbsp;Python,
-<img alt="C Sharp" width="36px" src="https://raw.githubusercontent.com/d1av/d1av/main/images/c.png" /> &nbsp;C#,
-<!-- <img alt="Typescript" width="26px" src="https://raw.githubusercontent.com/d1av/d1av/main/images/ts.png" /> &nbsp; Typescript, &nbsp; -->
 <img alt="Javascript" width="26px" src="https://raw.githubusercontent.com/d1av/d1av/main/images/javascript.png" /> &nbsp;Javascript
+<img alt="Java" width="36px" src="https://raw.githubusercontent.com/d1av/d1av/main/images/java.png" /> &nbsp;Java,
+<img alt="Python" width="36px" src="https://raw.githubusercontent.com/d1av/d1av/main/images/python.png" /> &nbsp;Python,
+<img alt="C Sharp" width="36px" src="https://raw.githubusercontent.com/d1av/d1av/main/images/c.png" /> &nbsp;C#
 
 
 </p>
