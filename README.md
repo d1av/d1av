@@ -11,8 +11,9 @@
 </strong>
 <img alt="Java" width="56px" src="https://raw.githubusercontent.com/d1av/d1av/main/images/java.png" /> &nbsp;Java,
 <img alt="Javascript" width="29px" src="https://raw.githubusercontent.com/d1av/d1av/main/images/javascript.png" /> &nbsp;Javascript,
-<img alt="Python" width="36px" src="https://raw.githubusercontent.com/d1av/d1av/main/images/python.png" /> &nbsp;Python,
-<img alt="C Sharp" width="36px" src="https://raw.githubusercontent.com/d1av/d1av/main/images/c.png" /> &nbsp;C#
+<img alt="C Sharp" width="36px" src="https://raw.githubusercontent.com/d1av/d1av/main/images/c.png" /> &nbsp;C# ,
+<img alt="Python" width="36px" src="https://raw.githubusercontent.com/d1av/d1av/main/images/python.png" /> &nbsp;Python
+
 
 
 </p>
