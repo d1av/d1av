@@ -9,8 +9,8 @@
 <strong>
   <p><span style={color:'orange'} >Linguagens: &nbsp;</span>
 </strong>
-<img alt="Javascript" width="26px" src="https://raw.githubusercontent.com/d1av/d1av/main/images/javascript.png" /> &nbsp;Javascript
 <img alt="Java" width="36px" src="https://raw.githubusercontent.com/d1av/d1av/main/images/java.png" /> &nbsp;Java,
+<img alt="Javascript" width="29px" src="https://raw.githubusercontent.com/d1av/d1av/main/images/javascript.png" /> &nbsp;Javascript,
 <img alt="Python" width="36px" src="https://raw.githubusercontent.com/d1av/d1av/main/images/python.png" /> &nbsp;Python,
 <img alt="C Sharp" width="36px" src="https://raw.githubusercontent.com/d1av/d1av/main/images/c.png" /> &nbsp;C#
 
@@ -23,11 +23,9 @@
 <strong>
 Frontend:
 </strong>
-<img alt="react" width="26px" src="https://raw.githubusercontent.com/d1av/d1av/main/images/react.png" />&nbsp; React , &nbsp;
 <img alt="Angular" width="26px" src="https://raw.githubusercontent.com/d1av/d1av/main/images/angular.png" />&nbsp; Angular ,&nbsp; 
-<img alt="Nextjs" width="26px" src="https://raw.githubusercontent.com/d1av/d1av/main/images/next_logo.png" /> &nbsp;Next.js&nbsp;
+<img alt="react" width="26px" src="https://raw.githubusercontent.com/d1av/d1av/main/images/react.png" />&nbsp; React , &nbsp;
 <img alt="Bootstrap" width="36px" src="https://raw.githubusercontent.com/d1av/d1av/main/images/bootstrap.png" />&nbsp; Bootstrap ,&nbsp; 
-
 </p>
 </li>
 <li>
