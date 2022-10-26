@@ -27,6 +27,7 @@ Frontend:
 <img alt="react" width="26px" src="https://raw.githubusercontent.com/d1av/d1av/main/images/react.png" />&nbsp; React , &nbsp;
 <img alt="Angular" width="26px" src="https://raw.githubusercontent.com/d1av/d1av/main/images/angular.png" />&nbsp; Angular ,&nbsp; 
 <img alt="Nextjs" width="26px" src="https://raw.githubusercontent.com/d1av/d1av/main/images/next_logo.png" /> &nbsp;Next.js&nbsp;
+<img alt="Bootstrap" width="26px" src="https://raw.githubusercontent.com/d1av/d1av/main/images/bootstrap.png" />&nbsp; Bootstrap ,&nbsp; 
 
 </p>
 </li>
