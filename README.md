@@ -35,9 +35,9 @@ Frontend:
 Backend:
       </strong>
         <img alt="Spring Boot" width="56px" src="https://raw.githubusercontent.com/d1av/d1av/main/images/sprboot.png" />&nbsp; Spring Boot, &nbsp;
+      <img alt="Node.js" width="26px" src="https://raw.githubusercontent.com/d1av/d1av/main/images/nodejs.png" />&nbsp; Node.js&nbsp; 
         <img alt=".NET" width="86px" src="https://raw.githubusercontent.com/d1av/d1av/main/images/netcore.png" />&nbsp; .NET, &nbsp;
-        <img alt="Django" width="26px" src="https://raw.githubusercontent.com/d1av/d1av/main/images/django.png" />&nbsp; Django,&nbsp;
-        <img alt="Node.js" width="26px" src="https://raw.githubusercontent.com/d1av/d1av/main/images/nodejs.png" />&nbsp; Node.js&nbsp;        
+        <img alt="Django" width="26px" src="https://raw.githubusercontent.com/d1av/d1av/main/images/django.png" />&nbsp; Django,&nbsp;        
     </p>
 </li>
 
