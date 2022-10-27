@@ -1,4 +1,4 @@
-#  Olá, eu sou [Davi][webpt] <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35px"> e sou Desenvolvedor.
+#  Olá, eu sou [Davi][webpt] <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35px"> , Desenvolvedor.
 
 ### Sou motivado, criativo e aberto para aprender novas coisas!
 
