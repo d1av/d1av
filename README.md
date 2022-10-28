@@ -10,7 +10,7 @@
   <p><span style={color:'orange'} >Linguagens: &nbsp;</span>
 </strong>
 <img alt="Java" width="56px" src="https://raw.githubusercontent.com/d1av/d1av/main/images/java.png" /> Java ,&nbsp;
-<img alt="Javascript" width="29px" src="https://raw.githubusercontent.com/d1av/d1av/main/images/javascript.png" /> &nbsp;Javascript ,
+<img alt="Javascript" width="29px" src="https://raw.githubusercontent.com/d1av/d1av/main/images/javascript.png" /> &nbsp;Javascript ,&nbsp;
 <img alt="C Sharp" width="36px" src="https://raw.githubusercontent.com/d1av/d1av/main/images/c.png" /> &nbsp;C# 
 
 </p>
