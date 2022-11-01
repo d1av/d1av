@@ -54,7 +54,8 @@ Backend:
 Outras Ferramentas:
   </strong>
       <img alt="Git" width="26px" src="https://raw.githubusercontent.com/d1av/d1av/main/images/git.png" /> Git ,&nbsp; 
-      <img alt="Wordpress" width="26px" src="https://raw.githubusercontent.com/d1av/d1av/main/images/wordpress.png" /> Wordpress
+      <img alt="Docker" width="76px" src="https://raw.githubusercontent.com/d1av/d1av/main/images/docker.png" /> Docker , &nbsp;
+      <img alt="Wordpress" width="26px" src="https://raw.githubusercontent.com/d1av/d1av/main/images/wordpress.png" /> Wordpress.
   
   </p>
 </li>
