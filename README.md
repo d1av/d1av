@@ -18,60 +18,64 @@
     </a>
 </p>
 
-### I'm motivated, creative and open to learning new things! 
+My name is Davi Alves, i love to code and i'm focused on web development!
 
-## :wrench: Hard-Skills
+---
+#### 🚧 What I'm looking for
 
-<ul>
-<li>
-<strong>
-  <p><span style={color:'orange'} >Languages: &nbsp;</span>
-</strong>
-<img alt="Java" width="56px" src="https://raw.githubusercontent.com/d1av/d1av/main/images/java.png" /> Java ,&nbsp;
-<img alt="Javascript" width="29px" src="https://raw.githubusercontent.com/d1av/d1av/main/images/javascript.png" /> &nbsp;Javascript&nbsp;
+- Searching a job like a Frontend, Backend or FullStack developer;
+- Collaborate in a project;
+- Freelance projects;
+- To grow with the support of the community.
+---
 
+## :wrench: Technologies and tools I know:
+
+<p style="display:flex; flex-direction:row;">
+<a href="https://www.java.com/pt-BR/">
+    <img alt="Java" width="66px" src="https://raw.githubusercontent.com/d1av/d1av/main/images/java.png" />
+</a>
+
+<a href="https://pt-br.reactjs.org/docs/getting-started.html">    
+<img alt="React" width="50px" src="https://raw.githubusercontent.com/d1av/d1av/main/images/react.png" />
+</a>
+
+<a href="https://getbootstrap.com/">     
+ <img alt="Bootstrap" width="50px" src="https://raw.githubusercontent.com/d1av/d1av/main/images/bootstrap.png" />
+</a>
+
+<a href="https://spring.io/">    
+<img alt="Spring Boot" width="95px" src="https://raw.githubusercontent.com/d1av/d1av/main/images/sprboot.png" />
+</a>
+
+<a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript">        
+<img alt="Javascript" width="50px" src="https://raw.githubusercontent.com/d1av/d1av/main/images/javascript.png" />
+</a>
+    
+<a href="https://www.typescriptlang.org/">        
+<img alt="Typescript" width="50px" src="https://raw.githubusercontent.com/d1av/d1av/main/images/ts.png" />
+</a>
+
+<a href="https://expressjs.com/">          
+<img alt="Node.js" width="50px" src="https://raw.githubusercontent.com/d1av/d1av/main/images/nodejs.png" />
+</a>
+
+<a href="https://www.mysql.com/">       
+<img alt="MySQL" width="50px" src="https://raw.githubusercontent.com/d1av/d1av/main/images/mySQL2.png" />
+</a>
+
+<a href="https://www.mongodb.com/">    
+<img alt="Mongodb" width="50px" src="https://raw.githubusercontent.com/d1av/d1av/main/images/mongodb.png" />
+</a>
+
+<a href="https://git-scm.com/">    
+<img alt="Git" width="50px" src="https://raw.githubusercontent.com/d1av/d1av/main/images/git.png" />
+</a>
+
+<a href="https://www.docker.com/">    
+<img alt="Docker" width="90px" src="https://raw.githubusercontent.com/d1av/d1av/main/images/docker.png" />
+</a>
 </p>
-</li>
-<li>
-
-<p>
-<strong>
-Frontend:
-</strong>
-<img alt="react" width="26px" src="https://raw.githubusercontent.com/d1av/d1av/main/images/react.png" />&nbsp; React , &nbsp;
-<img alt="Bootstrap" width="36px" src="https://raw.githubusercontent.com/d1av/d1av/main/images/bootstrap.png" />&nbsp; Bootstrap&nbsp; 
-</p>
-</li>
-<li>
-    <p>
-    <strong>
-Backend:
-      </strong>
-        <img alt="Spring Boot" width="56px" src="https://raw.githubusercontent.com/d1av/d1av/main/images/sprboot.png" />&nbsp; Spring Boot, &nbsp;
-      <img alt="Node.js" width="26px" src="https://raw.githubusercontent.com/d1av/d1av/main/images/nodejs.png" />&nbsp; Node.js&nbsp; 
-    </p>
-</li>
-
-<li>
-    <p>
-       <strong>
-       Database:
-       </strong>      
-        <img alt="MySQL" width="26px" src="https://raw.githubusercontent.com/d1av/d1av/main/images/mySQL2.png" />&nbsp; MySQL, &nbsp;   
-        <img alt="Mongodb" width="26px" src="https://raw.githubusercontent.com/d1av/d1av/main/images/mongodb.png" />&nbsp; MongoDB &nbsp;
-    </p>
-</li>
-
-<li>
-  <p>
-  <strong>
-Other Tools:
-  </strong>
-      <img alt="Git" width="26px" src="https://raw.githubusercontent.com/d1av/d1av/main/images/git.png" /> Git ,&nbsp; 
-      <img alt="Docker" width="76px" src="https://raw.githubusercontent.com/d1av/d1av/main/images/docker.png" /> Docker&nbsp; 
-  </p>
-</li>
-</ul>
 
 <br />
 
