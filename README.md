@@ -56,6 +56,14 @@ My name is Davi Alves, i love to code and i'm focused on web development!
 <img alt="MySQL" width="50px" src="https://raw.githubusercontent.com/d1av/d1av/main/images/mySQL2.png" />
 </a>
     
+<a href="https://git-scm.com/">    
+<img alt="Git" width="50px" src="https://raw.githubusercontent.com/d1av/d1av/main/images/git.png" />
+</a>
+
+<a href="https://www.docker.com/">    
+<img alt="Docker" width="90px" src="https://raw.githubusercontent.com/d1av/d1av/main/images/docker.png" />
+</a>   
+    
 <a href="https://expressjs.com/">          
 <img alt="Node.js" width="50px" src="https://raw.githubusercontent.com/d1av/d1av/main/images/nodejs.png" />
 </a>
@@ -64,15 +72,7 @@ My name is Davi Alves, i love to code and i'm focused on web development!
 <img alt="Mongodb" width="50px" src="https://raw.githubusercontent.com/d1av/d1av/main/images/mongodb.png" />
 </a>
 
-<a href="https://git-scm.com/">    
-<img alt="Git" width="50px" src="https://raw.githubusercontent.com/d1av/d1av/main/images/git.png" />
-</a>
-
-<a href="https://www.docker.com/">    
-<img alt="Docker" width="90px" src="https://raw.githubusercontent.com/d1av/d1av/main/images/docker.png" />
-</a>
-
-<a href="https://reactnative.dev/docs/image">    
+<a href="https://reactnative.dev/">    
 <img alt="React Native" width="50px" src="https://raw.githubusercontent.com/d1av/d1av/main/images/react.png" />
 </a>
 
