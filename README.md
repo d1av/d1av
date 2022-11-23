@@ -3,7 +3,7 @@
 <p align="left">
     <a href="https://br.linkedin.com/in/d1av">
         <img 
-            alt="Wesley Vicente" 
+            alt="Davi Alves" 
             src="https://img.shields.io/badge/-Davi%20Alves-%230077b5?style=flat-square&logo=linkedin" />
     </a>
     <a href="mailto:davi4alves@gmail.com">
@@ -28,8 +28,7 @@
   <p><span style={color:'orange'} >Languages: &nbsp;</span>
 </strong>
 <img alt="Java" width="56px" src="https://raw.githubusercontent.com/d1av/d1av/main/images/java.png" /> Java ,&nbsp;
-<img alt="Javascript" width="29px" src="https://raw.githubusercontent.com/d1av/d1av/main/images/javascript.png" /> &nbsp;Javascript ,&nbsp;
-<img alt="Python" width="36px" src="https://raw.githubusercontent.com/d1av/d1av/main/images/python.png" /> &nbsp;Python 
+<img alt="Javascript" width="29px" src="https://raw.githubusercontent.com/d1av/d1av/main/images/javascript.png" /> &nbsp;Javascript&nbsp;
 
 </p>
 </li>
@@ -59,7 +58,6 @@ Backend:
        Database:
        </strong>      
         <img alt="MySQL" width="26px" src="https://raw.githubusercontent.com/d1av/d1av/main/images/mySQL2.png" />&nbsp; MySQL, &nbsp;   
-        <img alt="PostgreSQL" width="26px" src="https://raw.githubusercontent.com/d1av/d1av/main/images/postgresSQL.png" />&nbsp; PostgreSQL, &nbsp;
         <img alt="Mongodb" width="26px" src="https://raw.githubusercontent.com/d1av/d1av/main/images/mongodb.png" />&nbsp; MongoDB &nbsp;
     </p>
 </li>
@@ -91,6 +89,5 @@ Other Tools:
 
 </div>
 
-[webpt]: https://d1av.github.io/
 [archive]: https://github.com/Davi-Archive
 [weben]: https://portfolio-davi.vercel.app/
