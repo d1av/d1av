@@ -14,7 +14,7 @@
     <a href="https://www.facebook.com/davi.alves.oli">
         <img 
             alt="facebook" 
-            src="https://img.shields.io/badge/-Wesley%20Vicente-%234267b2?style=flat-square&logo=facebook&logoColor=white" />
+            src="https://img.shields.io/badge/-Davi%20Alves-%234267b2?style=flat-square&logo=facebook&logoColor=white" />
     </a>
 </p>
 
