@@ -36,32 +36,28 @@ My name is Davi Alves, i love to code and i'm focused on web development!
     <img alt="Java" width="66px" src="https://raw.githubusercontent.com/d1av/d1av/main/images/java.png" />
 </a>
 
-<a href="https://pt-br.reactjs.org/docs/getting-started.html">    
-<img alt="React" width="50px" src="https://raw.githubusercontent.com/d1av/d1av/main/images/react.png" />
+<a href="https://spring.io/">    
+<img alt="Spring Boot" width="95px" src="https://raw.githubusercontent.com/d1av/d1av/main/images/sprboot.png" />
+</a>    
+    
+<a href="https://angular.io/">    
+<img alt="React Native" width="50px" src="https://raw.githubusercontent.com/d1av/d1av/main/images/angular.png" />
 </a>
 
 <a href="https://getbootstrap.com/">     
  <img alt="Bootstrap" width="50px" src="https://raw.githubusercontent.com/d1av/d1av/main/images/bootstrap.png" />
 </a>
 
-<a href="https://spring.io/">    
-<img alt="Spring Boot" width="95px" src="https://raw.githubusercontent.com/d1av/d1av/main/images/sprboot.png" />
-</a>
-
 <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript">        
 <img alt="Javascript" width="50px" src="https://raw.githubusercontent.com/d1av/d1av/main/images/javascript.png" />
-</a>
-    
-<a href="https://www.typescriptlang.org/">        
-<img alt="Typescript" width="50px" src="https://raw.githubusercontent.com/d1av/d1av/main/images/ts.png" />
-</a>
-
-<a href="https://expressjs.com/">          
-<img alt="Node.js" width="50px" src="https://raw.githubusercontent.com/d1av/d1av/main/images/nodejs.png" />
 </a>
 
 <a href="https://www.mysql.com/">       
 <img alt="MySQL" width="50px" src="https://raw.githubusercontent.com/d1av/d1av/main/images/mySQL2.png" />
+</a>
+    
+<a href="https://expressjs.com/">          
+<img alt="Node.js" width="50px" src="https://raw.githubusercontent.com/d1av/d1av/main/images/nodejs.png" />
 </a>
 
 <a href="https://www.mongodb.com/">    
@@ -75,6 +71,11 @@ My name is Davi Alves, i love to code and i'm focused on web development!
 <a href="https://www.docker.com/">    
 <img alt="Docker" width="90px" src="https://raw.githubusercontent.com/d1av/d1av/main/images/docker.png" />
 </a>
+
+<a href="https://reactnative.dev/docs/image">    
+<img alt="React Native" width="50px" src="https://raw.githubusercontent.com/d1av/d1av/main/images/react.png" />
+</a>
+
 </p>
 
 <br />
