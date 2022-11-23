@@ -1,5 +1,23 @@
 #  Hello, i'm [David][weben] <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35px"> , Fullstack Developer.
 
+<p align="left">
+    <a href="https://br.linkedin.com/in/d1av">
+        <img 
+            alt="Wesley Vicente" 
+            src="https://img.shields.io/badge/-Davi%20Alves-%230077b5?style=flat-square&logo=linkedin">
+    </a>
+    <a href="mailto:davi4alves@gmail.com">
+        <img 
+            alt="gmail" 
+            src="https://img.shields.io/badge/Gmail-%23c14438?style=flat-square&logo=gmail&logoColor=white">
+    </a>
+    <a href="https://www.facebook.com/davi.alves.oli">
+        <img 
+            alt="facebook" 
+            src="https://img.shields.io/badge/-Wesley%20Vicente-%234267b2?style=flat-square&logo=facebook&logoColor=white">
+    </a>
+</p>
+
 ### I'm motivated, creative and open to learning new things! 
 
 ## :wrench: Hard-Skills
