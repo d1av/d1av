@@ -22,7 +22,7 @@
 Frontend:
 </strong>
 <img alt="react" width="26px" src="https://raw.githubusercontent.com/d1av/d1av/main/images/react.png" />&nbsp; React , &nbsp;
-<img alt="Bootstrap" width="36px" src="https://raw.githubusercontent.com/d1av/d1av/main/images/bootstrap.png" />&nbsp; Bootstrap ,&nbsp; 
+<img alt="Bootstrap" width="36px" src="https://raw.githubusercontent.com/d1av/d1av/main/images/bootstrap.png" />&nbsp; Bootstrap&nbsp; 
 </p>
 </li>
 <li>
@@ -31,7 +31,7 @@ Frontend:
 Backend:
       </strong>
         <img alt="Spring Boot" width="56px" src="https://raw.githubusercontent.com/d1av/d1av/main/images/sprboot.png" />&nbsp; Spring Boot, &nbsp;
-      <img alt="Node.js" width="26px" src="https://raw.githubusercontent.com/d1av/d1av/main/images/nodejs.png" />&nbsp; Node.js,&nbsp; 
+      <img alt="Node.js" width="26px" src="https://raw.githubusercontent.com/d1av/d1av/main/images/nodejs.png" />&nbsp; Node.js&nbsp; 
     </p>
 </li>
 
@@ -52,7 +52,7 @@ Backend:
 Other Tools:
   </strong>
       <img alt="Git" width="26px" src="https://raw.githubusercontent.com/d1av/d1av/main/images/git.png" /> Git ,&nbsp; 
-      <img alt="Docker" width="76px" src="https://raw.githubusercontent.com/d1av/d1av/main/images/docker.png" /> Docker , &nbsp; 
+      <img alt="Docker" width="76px" src="https://raw.githubusercontent.com/d1av/d1av/main/images/docker.png" /> Docker&nbsp; 
   </p>
 </li>
 </ul>
