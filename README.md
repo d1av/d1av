@@ -11,7 +11,7 @@
 </strong>
 <img alt="Java" width="56px" src="https://raw.githubusercontent.com/d1av/d1av/main/images/java.png" /> Java ,&nbsp;
 <img alt="Javascript" width="29px" src="https://raw.githubusercontent.com/d1av/d1av/main/images/javascript.png" /> &nbsp;Javascript ,&nbsp;
-<img alt="C Sharp" width="36px" src="https://raw.githubusercontent.com/d1av/d1av/main/images/c.png" /> &nbsp;C# 
+<img alt="Python" width="36px" src="https://raw.githubusercontent.com/d1av/d1av/main/images/python.png" /> &nbsp;Python 
 
 </p>
 </li>
@@ -21,7 +21,6 @@
 <strong>
 Frontend:
 </strong>
-<img alt="Angular" width="26px" src="https://raw.githubusercontent.com/d1av/d1av/main/images/angular.png" />&nbsp; Angular ,&nbsp; 
 <img alt="react" width="26px" src="https://raw.githubusercontent.com/d1av/d1av/main/images/react.png" />&nbsp; React , &nbsp;
 <img alt="Bootstrap" width="36px" src="https://raw.githubusercontent.com/d1av/d1av/main/images/bootstrap.png" />&nbsp; Bootstrap ,&nbsp; 
 </p>
@@ -33,7 +32,6 @@ Backend:
       </strong>
         <img alt="Spring Boot" width="56px" src="https://raw.githubusercontent.com/d1av/d1av/main/images/sprboot.png" />&nbsp; Spring Boot, &nbsp;
       <img alt="Node.js" width="26px" src="https://raw.githubusercontent.com/d1av/d1av/main/images/nodejs.png" />&nbsp; Node.js,&nbsp; 
-        <img alt=".NET" width="86px" src="https://raw.githubusercontent.com/d1av/d1av/main/images/netcore.png" />&nbsp; .NET, &nbsp;   
     </p>
 </li>
 
@@ -54,9 +52,7 @@ Backend:
 Other Tools:
   </strong>
       <img alt="Git" width="26px" src="https://raw.githubusercontent.com/d1av/d1av/main/images/git.png" /> Git ,&nbsp; 
-      <img alt="Docker" width="76px" src="https://raw.githubusercontent.com/d1av/d1av/main/images/docker.png" /> Docker , &nbsp;
-      <img alt="Wordpress" width="26px" src="https://raw.githubusercontent.com/d1av/d1av/main/images/wordpress.png" /> Wordpress.
-  
+      <img alt="Docker" width="76px" src="https://raw.githubusercontent.com/d1av/d1av/main/images/docker.png" /> Docker , &nbsp; 
   </p>
 </li>
 </ul>
