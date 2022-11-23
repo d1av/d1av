@@ -4,17 +4,17 @@
     <a href="https://br.linkedin.com/in/d1av">
         <img 
             alt="Wesley Vicente" 
-            src="https://img.shields.io/badge/-Davi%20Alves-%230077b5?style=flat-square&logo=linkedin">
+            src="https://img.shields.io/badge/-Davi%20Alves-%230077b5?style=flat-square&logo=linkedin" />
     </a>
     <a href="mailto:davi4alves@gmail.com">
         <img 
             alt="gmail" 
-            src="https://img.shields.io/badge/Gmail-%23c14438?style=flat-square&logo=gmail&logoColor=white">
+            src="https://img.shields.io/badge/Gmail-%23c14438?style=flat-square&logo=gmail&logoColor=white" />
     </a>
     <a href="https://www.facebook.com/davi.alves.oli">
         <img 
             alt="facebook" 
-            src="https://img.shields.io/badge/-Wesley%20Vicente-%234267b2?style=flat-square&logo=facebook&logoColor=white">
+            src="https://img.shields.io/badge/-Wesley%20Vicente-%234267b2?style=flat-square&logo=facebook&logoColor=white" />
     </a>
 </p>
 
@@ -80,8 +80,9 @@ Other Tools:
 ## 📊 Statistics
 
   <div align="center" style="height:500px;margin:0" >
-  <img align="center" width="340px" height="340px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=d1av&hide_border=true&langs_count=8&theme=radical&layout=compact" />
-  <img align="center" width="400px" height="400px" src="https://github-readme-streak-stats.herokuapp.com?user=d1av&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D" />
+    
+<img align="center" width="340px" height="340px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=d1av&layout=compact&hide_border=true&langs_count=8&theme=radical" />
+<img align="center" width="400px" height="400px" src="https://github-readme-streak-stats.herokuapp.com?user=d1av&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D" />
   </div>
 
 ## :package: Old projects & studies, are [HERE][archive] . (about 60+ projects)
