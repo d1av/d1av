@@ -48,6 +48,10 @@ My name is Davi Alves, i love to code and i'm focused on web development!
  <img alt="Bootstrap" width="50px" src="https://raw.githubusercontent.com/d1av/d1av/main/images/bootstrap.png" />
 </a>
 
+<a href="https://www.python.org/">        
+<img alt="Python" width="50px" src="https://raw.githubusercontent.com/d1av/d1av/main/images/python.png" />
+</a>    
+    
 <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript">        
 <img alt="Javascript" width="50px" src="https://raw.githubusercontent.com/d1av/d1av/main/images/javascript.png" />
 </a>
