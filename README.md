@@ -32,10 +32,21 @@ My name is Davi Alves, i love to code and i'm focused on web development!
 ## :wrench: Technologies and tools I know:
 
 <p style="display:flex; flex-direction:row;">
-<a href="https://www.java.com/pt-BR/">
-    <img alt="Java" width="66px" src="https://raw.githubusercontent.com/d1av/d1av/main/images/java.png" />
+
+ <a href="https://www.java.com/pt-BR/">
+ <img alt="Java" width="66px" src="https://raw.githubusercontent.com/d1av/d1av/main/images/java.png" />
 </a>
 
+<a href="https://dotnet.microsoft.com/en-us/">        
+<img alt="CSharp" width="50px" src="https://raw.githubusercontent.com/d1av/d1av/main/images/c.png" />
+</a>    
+    
+
+    
+<a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript">        
+<img alt="Javascript" width="50px" src="https://raw.githubusercontent.com/d1av/d1av/main/images/javascript.png" />
+</a>  
+    
 <a href="https://spring.io/">    
 <img alt="Spring Boot" width="95px" src="https://raw.githubusercontent.com/d1av/d1av/main/images/sprboot.png" />
 </a>    
@@ -48,12 +59,8 @@ My name is Davi Alves, i love to code and i'm focused on web development!
  <img alt="Bootstrap" width="50px" src="https://raw.githubusercontent.com/d1av/d1av/main/images/bootstrap.png" />
 </a>
 
-<a href="https://www.python.org/">        
-<img alt="Python" width="50px" src="https://raw.githubusercontent.com/d1av/d1av/main/images/python.png" />
-</a>    
-    
-<a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript">        
-<img alt="Javascript" width="50px" src="https://raw.githubusercontent.com/d1av/d1av/main/images/javascript.png" />
+<a href="https://dotnet.microsoft.com/en-us/">     
+ <img alt=".NET" width="70px" src="https://raw.githubusercontent.com/d1av/d1av/main/images/dotnet.png" />
 </a>
 
 <a href="https://www.mysql.com/">       
