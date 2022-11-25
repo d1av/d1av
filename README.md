@@ -99,5 +99,5 @@ My name is Davi Alves, i love to code and i'm focused on web development!
 
 </div>
 
-[archive]: https://github.com/Davi-Archive
+[archive]: https://github.com/Davi-Archive/
 [weben]: https://portfolio-davi.vercel.app/
