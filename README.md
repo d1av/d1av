@@ -40,9 +40,7 @@ My name is Davi Alves, i love to code and i'm focused on web development!
 <a href="https://dotnet.microsoft.com/en-us/">        
 <img alt="CSharp" width="50px" src="https://raw.githubusercontent.com/d1av/d1av/main/images/c.png" />
 </a>    
-    
-
-    
+      
 <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript">        
 <img alt="Javascript" width="50px" src="https://raw.githubusercontent.com/d1av/d1av/main/images/javascript.png" />
 </a>  
@@ -60,7 +58,7 @@ My name is Davi Alves, i love to code and i'm focused on web development!
 </a>
 
 <a href="https://dotnet.microsoft.com/en-us/">     
- <img alt=".NET" width="70px" src="https://raw.githubusercontent.com/d1av/d1av/main/images/dotnet.png" />
+ <img alt=".NET" width="50px" src="https://raw.githubusercontent.com/d1av/d1av/main/images/dotnet.png" />
 </a>
 
 <a href="https://www.mysql.com/">       
@@ -81,10 +79,6 @@ My name is Davi Alves, i love to code and i'm focused on web development!
 
 <a href="https://www.mongodb.com/">    
 <img alt="Mongodb" width="50px" src="https://raw.githubusercontent.com/d1av/d1av/main/images/mongodb.png" />
-</a>
-
-<a href="https://reactnative.dev/">    
-<img alt="React Native" width="50px" src="https://raw.githubusercontent.com/d1av/d1av/main/images/react.png" />
 </a>
 
 </p>
