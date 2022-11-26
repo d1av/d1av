@@ -37,10 +37,6 @@ My name is Davi Alves, i love to code and i'm focused on web development!
  <img alt="Java" width="66px" src="https://raw.githubusercontent.com/d1av/d1av/main/images/java.png" />
 </a>
 
-<a href="https://dotnet.microsoft.com/en-us/">        
-<img alt="CSharp" width="50px" src="https://raw.githubusercontent.com/d1av/d1av/main/images/c.png" />
-</a>    
-      
 <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript">        
 <img alt="Javascript" width="50px" src="https://raw.githubusercontent.com/d1av/d1av/main/images/javascript.png" />
 </a>  
@@ -55,10 +51,6 @@ My name is Davi Alves, i love to code and i'm focused on web development!
 
 <a href="https://getbootstrap.com/">     
  <img alt="Bootstrap" width="50px" src="https://raw.githubusercontent.com/d1av/d1av/main/images/bootstrap.png" />
-</a>
-
-<a href="https://dotnet.microsoft.com/en-us/">     
- <img alt=".NET" width="50px" src="https://raw.githubusercontent.com/d1av/d1av/main/images/dotnet.png" />
 </a>
 
 <a href="https://www.mysql.com/">       
