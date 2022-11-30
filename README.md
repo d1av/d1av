@@ -45,8 +45,12 @@ My name is Davi Alves, i love to code and i'm focused on web development!
 <img alt="Spring Boot" width="95px" src="https://raw.githubusercontent.com/d1av/d1av/main/images/sprboot.png" />
 </a>    
     
+<a href="https://reactjs.org/">    
+<img alt="React" width="50px" src="https://raw.githubusercontent.com/d1av/d1av/main/images/react.png" />
+</a>    
+    
 <a href="https://angular.io/">    
-<img alt="React Native" width="50px" src="https://raw.githubusercontent.com/d1av/d1av/main/images/angular.png" />
+<img alt="Angular" width="50px" src="https://raw.githubusercontent.com/d1av/d1av/main/images/angular.png" />
 </a>
 
 <a href="https://getbootstrap.com/">     
