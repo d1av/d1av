@@ -38,19 +38,23 @@ My name is Davi Alves, i love to code and i'm focused on web development!
 </a>
 
 <a href="https://dotnet.microsoft.com/en-us/learn/csharp">        
-<img alt="Javascript" width="50px" src="https://raw.githubusercontent.com/d1av/d1av/main/images/c.png" />
+<img alt="C Sharp" width="50px" src="https://raw.githubusercontent.com/d1av/d1av/main/images/c.png" />
 </a>  
 
 <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript">        
 <img alt="Javascript" width="50px" src="https://raw.githubusercontent.com/d1av/d1av/main/images/javascript.png" />
-</a>  
+</a>
     
+<a href="https://4linux.com.br/principais-banco-dados-open-source/">       
+<img alt="SQL" width="50px" src="https://raw.githubusercontent.com/d1av/d1av/main/images/sql.png" />
+</a>
+   
 <a href="https://spring.io/">    
 <img alt="Spring Boot" width="95px" src="https://raw.githubusercontent.com/d1av/d1av/main/images/sprboot.png" />
 </a>    
 
 <a href="https://dotnet.microsoft.com/pt-br/">    
-<img alt=".NET" width="95px" src="https://raw.githubusercontent.com/d1av/d1av/main/images/net.png" />
+<img alt=".NET" width="55px" src="https://raw.githubusercontent.com/d1av/d1av/main/images/net.png" />
 </a>   
     
 <a href="https://angular.io/">    
@@ -60,11 +64,7 @@ My name is Davi Alves, i love to code and i'm focused on web development!
 <a href="https://getbootstrap.com/">     
  <img alt="Bootstrap" width="50px" src="https://raw.githubusercontent.com/d1av/d1av/main/images/bootstrap.png" />
 </a>
-
-<a href="https://www.mysql.com/">       
-<img alt="MySQL" width="50px" src="https://raw.githubusercontent.com/d1av/d1av/main/images/mySQL2.png" />
-</a>
-    
+ 
 <a href="https://git-scm.com/">    
 <img alt="Git" width="50px" src="https://raw.githubusercontent.com/d1av/d1av/main/images/git.png" />
 </a>
