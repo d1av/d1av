@@ -23,7 +23,7 @@ My name is Davi Alves, i love to code and i'm focused on web development!
 ---
 #### 🚧 What I'm looking for
 
-- Searching a job like a Frontend, Backend or FullStack developer;
+- Searching a job like a Back end, Front end or Full stack developer;
 - Collaborate in a project;
 - Freelance projects;
 - To grow with the support of the community.
@@ -37,6 +37,10 @@ My name is Davi Alves, i love to code and i'm focused on web development!
  <img alt="Java" width="66px" src="https://raw.githubusercontent.com/d1av/d1av/main/images/java.png" />
 </a>
 
+<a href="https://dotnet.microsoft.com/en-us/learn/csharp">        
+<img alt="Javascript" width="50px" src="https://raw.githubusercontent.com/d1av/d1av/main/images/c.png" />
+</a>  
+
 <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript">        
 <img alt="Javascript" width="50px" src="https://raw.githubusercontent.com/d1av/d1av/main/images/javascript.png" />
 </a>  
@@ -44,10 +48,10 @@ My name is Davi Alves, i love to code and i'm focused on web development!
 <a href="https://spring.io/">    
 <img alt="Spring Boot" width="95px" src="https://raw.githubusercontent.com/d1av/d1av/main/images/sprboot.png" />
 </a>    
-    
-<a href="https://reactjs.org/">    
-<img alt="React" width="50px" src="https://raw.githubusercontent.com/d1av/d1av/main/images/react.png" />
-</a>    
+
+<a href="https://dotnet.microsoft.com/pt-br/">    
+<img alt=".NET" width="95px" src="https://raw.githubusercontent.com/d1av/d1av/main/images/net.png" />
+</a>   
     
 <a href="https://angular.io/">    
 <img alt="Angular" width="50px" src="https://raw.githubusercontent.com/d1av/d1av/main/images/angular.png" />
@@ -69,6 +73,10 @@ My name is Davi Alves, i love to code and i'm focused on web development!
 <img alt="Docker" width="90px" src="https://raw.githubusercontent.com/d1av/d1av/main/images/docker.png" />
 </a>   
     
+<a href="https://reactjs.org/">    
+<img alt="React" width="50px" src="https://raw.githubusercontent.com/d1av/d1av/main/images/react.png" />
+</a>    
+  
 <a href="https://expressjs.com/">          
 <img alt="Node.js" width="50px" src="https://raw.githubusercontent.com/d1av/d1av/main/images/nodejs.png" />
 </a>
