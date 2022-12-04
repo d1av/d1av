@@ -33,14 +33,19 @@ My name is Davi Alves, i love to code and i'm focused on web development!
 
 <p style="display:flex; flex-direction:row;">
 
+    
  <a href="https://www.java.com/pt-BR/">
  <img alt="Java" width="66px" src="https://raw.githubusercontent.com/d1av/d1av/main/images/java.png" />
 </a>
+    
+<a href="https://spring.io/">    
+<img alt="Spring Boot" width="95px" src="https://raw.githubusercontent.com/d1av/d1av/main/images/sprboot.png" />
+</a>   
 
-<a href="https://dotnet.microsoft.com/en-us/learn/csharp">        
-<img alt="C Sharp" width="50px" src="https://raw.githubusercontent.com/d1av/d1av/main/images/c.png" />
-</a>  
-
+<a href="https://angular.io/">    
+<img alt="Angular" width="50px" src="https://raw.githubusercontent.com/d1av/d1av/main/images/angular.png" />
+</a>    
+    
 <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript">        
 <img alt="Javascript" width="50px" src="https://raw.githubusercontent.com/d1av/d1av/main/images/javascript.png" />
 </a>
@@ -48,19 +53,7 @@ My name is Davi Alves, i love to code and i'm focused on web development!
 <a href="https://4linux.com.br/principais-banco-dados-open-source/">       
 <img alt="SQL" width="50px" src="https://raw.githubusercontent.com/d1av/d1av/main/images/sql.png" />
 </a>
-   
-<a href="https://spring.io/">    
-<img alt="Spring Boot" width="95px" src="https://raw.githubusercontent.com/d1av/d1av/main/images/sprboot.png" />
-</a>    
-
-<a href="https://dotnet.microsoft.com/pt-br/">    
-<img alt=".NET" width="55px" src="https://raw.githubusercontent.com/d1av/d1av/main/images/net.png" />
-</a>   
     
-<a href="https://angular.io/">    
-<img alt="Angular" width="50px" src="https://raw.githubusercontent.com/d1av/d1av/main/images/angular.png" />
-</a>
-
 <a href="https://getbootstrap.com/">     
  <img alt="Bootstrap" width="50px" src="https://raw.githubusercontent.com/d1av/d1av/main/images/bootstrap.png" />
 </a>
@@ -73,14 +66,6 @@ My name is Davi Alves, i love to code and i'm focused on web development!
 <img alt="Docker" width="90px" src="https://raw.githubusercontent.com/d1av/d1av/main/images/docker.png" />
 </a>   
     
-<a href="https://reactjs.org/">    
-<img alt="React" width="50px" src="https://raw.githubusercontent.com/d1av/d1av/main/images/react.png" />
-</a>    
-  
-<a href="https://expressjs.com/">          
-<img alt="Node.js" width="50px" src="https://raw.githubusercontent.com/d1av/d1av/main/images/nodejs.png" />
-</a>
-
 <a href="https://www.mongodb.com/">    
 <img alt="Mongodb" width="50px" src="https://raw.githubusercontent.com/d1av/d1av/main/images/mongodb.png" />
 </a>
