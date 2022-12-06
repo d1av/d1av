@@ -66,8 +66,8 @@ My name is Davi Alves, i love to code and i'm focused on web development!
 <img alt="Docker" width="90px" src="https://raw.githubusercontent.com/d1av/d1av/main/images/docker.png" />
 </a>   
     
-<a href="https://www.mongodb.com/">    
-<img alt="Mongodb" width="50px" src="https://raw.githubusercontent.com/d1av/d1av/main/images/mongodb.png" />
+<a href="https://learn.microsoft.com/pt-br/dotnet/csharp/">    
+<img alt="CSharp" width="50px" src="https://raw.githubusercontent.com/d1av/d1av/main/images/c.png" />
 </a>
 
 </p>
