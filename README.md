@@ -1,4 +1,4 @@
-#  Hello, i'm [David][weben] <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35px"> a Developer.
+#  Hello, i'm [David][weben] <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35px"> a <img alt="Java" width="40px" src="https://raw.githubusercontent.com/d1av/d1av/main/images/java.png" /> Java Developer.
 
 <p align="left">
     <a href="https://br.linkedin.com/in/d1av">
