@@ -1,4 +1,4 @@
-#  Hello, i'm [David][weben] <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35px"> a <img alt="Java" width="40px" src="https://raw.githubusercontent.com/d1av/d1av/main/images/java.png" /> Java Developer.
+#  Hello, i'm [David][weben] <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35px"> 
 
 <p align="left">
     <a href="https://br.linkedin.com/in/d1av">
@@ -17,8 +17,6 @@
             src="https://img.shields.io/badge/-Davi%20Alves-%234267b2?style=flat-square&logo=facebook&logoColor=white" />
     </a>
 </p>
-
-My name is Davi Alves, i love to code and i'm focused on web development!
 
 ---
 #### 🚧 What I'm looking for
