@@ -80,7 +80,10 @@
 
   <div align="center" style="height:500px;margin:0" >
     
-<img align="center" width="340px" height="340px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=d1av&layout=compact&hide_border=true&langs_count=6&theme=radical" />
+<a href="https://github.com/anuraghazra/github-readme-stats">    
+<img align="center" width="340px" height="340px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=d1av&layout=compact&theme=radical&langs_count=6" />
+    </a>    
+    
 <img align="center" width="400px" height="400px" src="https://github-readme-streak-stats.herokuapp.com?user=d1av&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D" />
   </div>
 
