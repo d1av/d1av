@@ -64,9 +64,6 @@
 <img alt="Docker" width="90px" src="https://raw.githubusercontent.com/d1av/d1av/main/images/docker.png" />
 </a>   
       
-<a href="https://reactjs.org/">    
-<img alt="React" width="50px" src="https://raw.githubusercontent.com/d1av/d1av/main/images/react.png" />
-</a>
 
 </p>
 
