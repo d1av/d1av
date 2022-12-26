@@ -82,7 +82,7 @@
 
 ## :package: Old projects & studies, are [HERE][archive] . (about 60+ projects)
 
-## 📱 Recent Projects bellow:
+## 📱 Best Projects bellow:
 
 </div>
 
