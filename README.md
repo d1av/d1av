@@ -40,8 +40,8 @@
 <img alt="Spring Boot" width="95px" src="https://raw.githubusercontent.com/d1av/d1av/main/images/sprboot.png" />
 </a>   
 
-<a href="https://angular.io/">    
-<img alt="Angular" width="50px" src="https://raw.githubusercontent.com/d1av/d1av/main/images/angular.png" />
+<a href="https://reactjs.org/">    
+<img alt="React" width="50px" src="https://raw.githubusercontent.com/d1av/d1av/main/images/react.png" />
 </a>    
     
 <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript">        
