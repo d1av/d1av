@@ -18,73 +18,33 @@
     </a>
 </p>
 
----
 #### 🚧 What I'm looking for
 
 - Searching a job like a Back end, Front end or Full stack developer;
 - Collaborate in a project;
-- Freelance projects;
 - To grow with the support of the community.
----
+- :package: Old projects & studies, are [HERE][archive] . (about 60+ projects)
 
-## :wrench: Technologies and tools I know:
+## :wrench: My Skills:
 
-<p style="display:flex; flex-direction:row;">
-
-    
- <a href="https://www.java.com/pt-BR/">
- <img alt="Java" width="66px" src="https://raw.githubusercontent.com/d1av/d1av/main/images/java.png" />
-</a>
-    
-<a href="https://spring.io/">    
-<img alt="Spring Boot" width="95px" src="https://raw.githubusercontent.com/d1av/d1av/main/images/sprboot.png" />
-</a>   
-
-<a href="https://angular.io/">    
-<img alt="Angular" width="50px" src="https://raw.githubusercontent.com/d1av/d1av/main/images/angular.png" />
-</a>    
-    
-<a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript">        
-<img alt="Javascript" width="50px" src="https://raw.githubusercontent.com/d1av/d1av/main/images/javascript.png" />
-</a>
-    
-<a href="https://4linux.com.br/principais-banco-dados-open-source/">       
-<img alt="SQL" width="50px" src="https://raw.githubusercontent.com/d1av/d1av/main/images/sql.png" />
-</a>
-    
-<a href="https://getbootstrap.com/">     
- <img alt="Bootstrap" width="50px" src="https://raw.githubusercontent.com/d1av/d1av/main/images/bootstrap.png" />
-</a>
- 
-<a href="https://git-scm.com/">    
-<img alt="Git" width="50px" src="https://raw.githubusercontent.com/d1av/d1av/main/images/git.png" />
-</a>
-
-<a href="https://www.docker.com/">    
-<img alt="Docker" width="90px" src="https://raw.githubusercontent.com/d1av/d1av/main/images/docker.png" />
-</a>   
-      
-
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,spring,cs,dotnet,angular,git,javascript,css,html,kubernetes,docker,aws,bootstrap,jenkins" />
+  </a>
 </p>
 
-<br />
-
-## 📊 Statistics
-
-  <div align="center" style="height:500px;margin:0" >
+<div align="center">   
     
 <a href="https://github.com/anuraghazra/github-readme-stats">    
+    
 <img align="center" width="340px" height="340px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=d1av&layout=compact&theme=radical&langs_count=6" />
-    </a>    
+  
+</a> 
     
 <img align="center" width="400px" height="400px" src="https://github-readme-streak-stats.herokuapp.com?user=d1av&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D" />
-  </div>
-
-## :package: Old projects & studies, are [HERE][archive] . (about 60+ projects)
-
-## 📱 Best Projects bellow:
 
 </div>
+
 
 [archive]: https://github.com/Davi-Archive/
 [weben]: https://portfolio-davi.vercel.app/
