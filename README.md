@@ -1,4 +1,4 @@
-#  Hello, i'm David <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35px"> 
+#  Hello, i'm David <img src="https://raw.githubusercontent.com/d1av/d1av/main/images/Hi.gif" width="35px"> 
 
 <p align="left">
     <a href="https://br.linkedin.com/in/d1av">
