@@ -18,13 +18,6 @@
     </a>
 </p>
 
-#### 🚧 What I'm looking for
-
-- Searching a job like a Back end, Front end or Full stack developer;
-- Collaborate in a project;
-- To grow with the support of the community.
-- :package: Old projects & studies, are [HERE][archive] . (about 60+ projects)
-
 ## :wrench: My Skills:
 
 <p align="center">
@@ -44,6 +37,8 @@
 <img align="center" width="400px" height="400px" src="https://github-readme-streak-stats.herokuapp.com?user=d1av&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D" />
 
 </div>
+
+#### :package: Old projects & studies, are [HERE][archive] . (about 60+ projects)
 
 
 [archive]: https://github.com/Davi-Archive/
