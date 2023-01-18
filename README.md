@@ -18,7 +18,7 @@
     </a>
 </p>
 
-## :wrench: My Skills:
+## :wrench: My Stack:
 
 <p align="center">
   <a href="https://skillicons.dev">
