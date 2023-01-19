@@ -11,11 +11,6 @@
             alt="gmail" 
             src="https://img.shields.io/badge/Gmail-%23c14438?style=flat-square&logo=gmail&logoColor=white" />
     </a>
-    <a href="https://www.facebook.com/davi.alves.oli">
-        <img 
-            alt="facebook" 
-            src="https://img.shields.io/badge/-Davi%20Alves-%234267b2?style=flat-square&logo=facebook&logoColor=white" />
-    </a>
 </p>
 
 ## :wrench: My Stack:
