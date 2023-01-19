@@ -11,10 +11,10 @@
             alt="gmail" 
             src="https://img.shields.io/badge/Gmail-%23c14438?style=flat-square&logo=gmail&logoColor=white" />
     </a>
-</p> -->
+</p> 
 
 
-#  :wrench: My Stack:
+#  :wrench: My Stack:-->
 
 <p align="center">
   <a href="https://skillicons.dev">
