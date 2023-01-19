@@ -22,11 +22,11 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,net,angular,git,javascript,css,html,kubernetes,docker,aws" />
+    <img src="https://skillicons.dev/icons?i=java,spring,kotlin,angular,git,javascript,css,html,kubernetes,docker,aws" />
   </a>
 </p>
 
-<div align="center">   
+<!-- <div align="center">   
     
 <a href="https://github.com/anuraghazra/github-readme-stats">    
     
@@ -36,7 +36,7 @@
     
 <img align="center" width="400px" height="400px" src="https://github-readme-streak-stats.herokuapp.com?user=d1av&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D" />
 
-</div>
+</div> -->
 
 #### :package: Old projects & studies, are [HERE][archive] . (about 60+ projects)
 
