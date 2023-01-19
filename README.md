@@ -1,4 +1,4 @@
-#  Hello, i'm David <img src="https://raw.githubusercontent.com/d1av/d1av/main/images/Hi.gif" width="35px"> 
+<!-- #  Hello, i'm David <img src="https://raw.githubusercontent.com/d1av/d1av/main/images/Hi.gif" width="35px"> 
 
 <p align="left">
     <a href="https://br.linkedin.com/in/d1av">
@@ -11,9 +11,10 @@
             alt="gmail" 
             src="https://img.shields.io/badge/Gmail-%23c14438?style=flat-square&logo=gmail&logoColor=white" />
     </a>
-</p>
+</p> -->
 
-## :wrench: My Stack:
+
+#  :wrench: My Stack:
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -38,3 +39,10 @@
 
 [archive]: https://github.com/Davi-Archive/
 [weben]: https://portfolio-davi.vercel.app/
+
+
+<a href="https://br.linkedin.com/in/d1av">
+        <img 
+            alt="Davi Alves" 
+            src="https://img.shields.io/badge/-Davi%20Alves-%230077b5?style=flat-square&logo=linkedin" />
+</a>
