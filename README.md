@@ -34,8 +34,10 @@
 
 </div> -->
 
-#### :package: Old projects & studies, are [HERE][archive] . (about 60+ projects)
-
+#### :package: Old projects & studies, are [HERE][archive]
+<!--
+ . (about 60+ projects)
+-->
 
 [archive]: https://github.com/Davi-Archive/
 [weben]: https://portfolio-davi.vercel.app/
