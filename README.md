@@ -8,7 +8,7 @@
 [weben]: https://portfolio-davi.vercel.app/
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=d1av&show_icons=true&locale=en&layout=compact&theme=dark&show_icons=true" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=d1av&show_icons=true&locale=en&layout=compact&theme=dark&show_icons=true&langs_count=6" /></p>
 
 <p><img align="center" width="420" height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=d1av&theme=dark&show_icons=true" /></p>
 
