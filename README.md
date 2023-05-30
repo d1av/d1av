@@ -11,9 +11,9 @@
 
 <p><img align="center" width="420" height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=d1av&theme=dark&show_icons=true" /></p>
 
-#### :package: Old projects & studies, are [HERE][archive] 
-
+<div style="display:flex;margin:200px;justify-content:center;">
 <a href="https://br.linkedin.com/in/d1av"> <img 
             alt="Davi Alves" 
             src="https://img.shields.io/badge/-LinkedIn-%230077b5?style=flat-square&logo=linkedin" />
 </a>
+  </div>
